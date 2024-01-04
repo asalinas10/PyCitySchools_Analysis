@@ -32,7 +32,7 @@ Using Pandas and Jupyter Notebook, I created a report that includes the followin
 
             - % overall passing (the percentage of students who passed math AND reading)
         
-    ![Alt text](<Screen Shot 2024-01-03 at 8.17.08 PM.png>)
+![Alt text](<Screen Shot 2024-01-03 at 8.17.08 PM.png>)
 
     2. School Summary
 
@@ -58,30 +58,30 @@ Using Pandas and Jupyter Notebook, I created a report that includes the followin
 
             - % overall passing (the percentage of students who passed math AND reading)
         
-    ![Alt text](<Screen Shot 2024-01-03 at 8.20.49 PM.png>)
+![Alt text](<Screen Shot 2024-01-03 at 8.20.49 PM.png>)
 
     3. Highest-Performing Schools (by % Overall Passing)
 
         Sort the schools by % Overall Passing in descending order and display the top 5 rows.
 
-    ![Alt text](<Screen Shot 2024-01-03 at 8.22.37 PM.png>)
+![Alt text](<Screen Shot 2024-01-03 at 8.22.37 PM.png>)
 
     4. Lowest-Performing Schools (by % Overall Passing)
 
         Sort the schools by % Overall Passing in ascending order and display the top 5 rows.
 
-    ![Alt text](<Screen Shot 2024-01-03 at 8.24.07 PM.png>)
+![Alt text](<Screen Shot 2024-01-03 at 8.24.07 PM.png>)
 
     5. Math Scores by Grade
 
         Perform the necessary calculations to create a DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-    ![Alt text](<Screen Shot 2024-01-03 at 8.30.11 PM 1.png>)
+![Alt text](<Screen Shot 2024-01-03 at 8.30.11 PM 1.png>)
 
     6. Reading Scores by Grade
 
         Perform the necessary calculations to create a DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-    ![Alt text](<Screen Shot 2024-01-03 at 8.30.37 PM.png>)
+![Alt text](<Screen Shot 2024-01-03 at 8.30.37 PM.png>)
 
     
