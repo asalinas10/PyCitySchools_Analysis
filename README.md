@@ -84,4 +84,38 @@ Using Pandas and Jupyter Notebook, I created a report that includes the followin
 
 ![Alt text](<Screen Shot 2024-01-03 at 8.30.37 PM.png>)
 
+    7. Scores by School Spending
+
+        Create a table that breaks down school performance based on average spending ranges (per student).
+
+![Alt text](<Screen Shot 2024-01-03 at 8.35.33 PM.png>)
+
+        Use the scores above to create a DataFrame called spending_summary. Include the following metrics in the table:
+
+            - Average math score
+
+            - Average reading score
+
+            - % passing math (the percentage of students who passed math)
+
+            - % passing reading (the percentage of students who passed reading)
+
+            - % overall passing (the percentage of students who passed math AND reading)
+
+![Alt text](<Screen Shot 2024-01-03 at 8.36.46 PM.png>)
+
+    8. Scores by School Size
+
+        Create a DataFrame called size_summary that breaks down school performance based on school size (small, medium, or large).
+
+![Alt text](<Screen Shot 2024-01-03 at 8.39.24 PM.png>)
+
+    9. Scores by School Type
+
+        Use the per_school_summary DataFrame from the previous step to create a new DataFrame called type_summary.
+
+![Alt text](<Screen Shot 2024-01-03 at 8.39.57 PM.png>)
+
+
+
     
